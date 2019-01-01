@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/ErrorDot.png</file>
+        <file>img/NormalDot.png</file>
+        <file>img/RunningDot.png</file>
+        <file>img/bg.jpg</file>
+    </qresource>
+</RCC>
